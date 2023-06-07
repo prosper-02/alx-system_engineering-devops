@@ -1,1 +1,1 @@
-my first redme
+task 0 where i write my scripts
